@@ -1,4 +1,4 @@
-# Philly Auto Repair — Website
+# Philly Auto Repair — Website 
 
 Philadelphia's Trusted Auto Experts. Built with Next.js App Router, Tailwind CSS v4, and `motion` for animations.
 
